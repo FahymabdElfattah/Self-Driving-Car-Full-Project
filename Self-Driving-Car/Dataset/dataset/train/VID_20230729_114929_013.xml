@@ -1,0 +1,38 @@
+<annotation>
+	<folder>path000</folder>
+	<filename>VID_20230729_114929_013.jpg</filename>
+	<path>C:\Users\Fahym Abd Elfattah\3D Objects\Self-Driving Car\Dataset-1-20230729T171731Z-001\path000\VID_20230729_114929_013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>forward</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>510</ymin>
+			<xmax>1449</xmax>
+			<ymax>885</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>390</xmin>
+			<ymin>222</ymin>
+			<xmax>1447</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

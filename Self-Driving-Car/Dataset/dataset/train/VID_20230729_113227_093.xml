@@ -1,0 +1,26 @@
+<annotation>
+	<folder>panel001</folder>
+	<filename>VID_20230729_113227_093.jpg</filename>
+	<path>C:\Users\Fahym Abd Elfattah\3D Objects\Self-Driving Car\Dataset-1-20230729T171731Z-001\panel001\VID_20230729_113227_093.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>panel001</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>423</ymin>
+			<xmax>813</xmax>
+			<ymax>1049</ymax>
+		</bndbox>
+	</object>
+</annotation>
